@@ -1,0 +1,126 @@
+.logo img{
+    left: 15px;
+    max-width: 200px;
+    max-height: 50px;}
+
+.carousel-inner{height: 100%;
+    width: 100%;}
+
+body{background-image:url('https://www.pcclean.io/wp-content/uploads/2020/4/E7BFb2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 120%;
+    color: greenyellow;
+    }
+.marq    {
+        color: yellow;
+        font-size: 30px;}
+
+.container  {margin-bottom: 50px;}
+.text-only  {margin-left: 0px;}
+
+
+h2  {
+    border:1px solid green;
+    border-radius: 10px;
+    color: brown;
+    box-shadow: 7px 7px;
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    background-color: chartreuse;
+    width:35%;
+    text-align: center;
+    height:30px;
+    margin:4px 30%;}
+
+h3  {
+    border:1px solid green;
+    border-radius: 10px;
+    color: brown;
+    box-shadow: 7px 7px;
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    background-color: chartreuse;
+    width:30%;
+    text-align: center;
+    height:40px;
+    margin:auto;}
+
+.pink-bg{
+    border-radius: 10px;}
+
+    .btn{border-radius: 10px;
+        border:  #f6d70f;
+        color: purple ;
+        padding: 10px 26px;
+        background-image: linear-gradient(to bottom,#f4ff58 0%, #ffe713 100%);
+        font-weight: 700;}
+    
+    
+    .price{color: #fc0a66;}
+    .carousel-item{padding: 20px 40px;}
+    .cat1, .cat2, .cat3{padding: 20px 20px;
+                         border-radius: 8px;
+                        height: 100px;
+                        }
+    .bgk img {height:300px;
+             border-radius: 12px;
+            width: 405px;}
+
+.act {background-color: green;}
+
+#pact {color:rgb(233, 12, 148);
+        text-decoration: none;}
+
+.catagories h1{color: white;}
+
+.catagories img {width: 100px;}
+
+.card{   border: none;
+         background-color:#000000;
+         box-shadow: 5px 5px 10px lightslategray ;}
+
+footer{text-align: center;}
+#frotto{text-align: center;}
+
+.card-footer{border: none;
+            background-color:#000000;}
+.card-footer1{border: none;
+                background-color:gray;}
+#subf{height: 300px;}
+.jam img {height: 400px;}
+.pam img {height: 400px;}
+                            
+                            
+.bgk{margin-left: 0px;}
+                            
+#jmk{margin-left: 100px;
+     padding-left: 100px;
+    padding-right: 370px;}
+                        
+    div.gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;
+      }
+      
+      div.gallery:hover {
+        border: 1px solid #777;
+      }
+      
+      div.gallery img {
+        width: 100%;
+        height: 150px;
+      }
+      
+      div.desc {
+        padding: 15px;
+        text-align: center;
+      }
+      
+    .res img{ height: 150px;
+            width: 120px;
+            margin-top: 20px;}
+
+
+    
+   
