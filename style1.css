@@ -123,4 +123,26 @@ footer{text-align: center;}
 
 
     
-   
+   .nini img{ width: 100%;
+              height: 100%;}
+    .pngg {
+      margin-left:10px;
+      margin-right: 10px;
+      box-shadow: 8px 5px 10px grey;
+    }
+    .pngr{
+      margin-left:8px;
+      margin-right: 8px;
+      border: 2px solid red;
+    }
+    .danger {
+      background-color: #ffdddd;
+      border-left: 6px solid #f44336;
+      margin-bottom: 15px;
+      padding: 4px 12px;
+      color: darkred;
+    }
+    .divwer {
+      margin-bottom: 15px;
+      padding: 4px 12px;
+    }
